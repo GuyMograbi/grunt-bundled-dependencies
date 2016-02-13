@@ -1,0 +1,5 @@
+{
+  "name" : "grunt-bundled-dependencies",
+  "version" : "0.0.0",
+  "main" : "tasks/bundledDependencies.js"
+}
